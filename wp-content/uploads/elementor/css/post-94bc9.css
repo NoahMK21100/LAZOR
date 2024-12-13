@@ -2112,10 +2112,6 @@
     transition: color 0s, background 0s, box-shadow 0s, border-radius 0s, border 0s, filter 0s;
 }
 
-    {
-    transition: color 0s, background 0s, box-shadow 0s, border-radius 0s, border 0s, filter 0s;
-}
-
 .elementor-9 .elementor-element.elementor-element-188fe70c:not(.elementor-motion-effects-element-type-background),
 .elementor-9 .elementor-element.elementor-element-188fe70c>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: #FFFFFF;

@@ -1095,13 +1095,6 @@
 .elementor-9 .elementor-element.elementor-element-a7bf880>.elementor-widget-container {
     opacity: 0;
     padding: 40px 30px 40px 30px;
-    background-color: var(--e-global-color-d700e18);
-    backdrop-filter: blur(5px) !important;
-    border-style: solid;
-    border-width: 1px 1px 1px 1px;
-    border-color: #e6e6e656;
-    border-radius: 40px 40px 40px 40px;
-    box-shadow: 30px 30px 60px 0px rgba(181.00000000000003, 202.00000000000003, 191.00000000000003, 0.38823529411764707);
 }
 
 .elementor-9 .elementor-element.elementor-element-0138012 .elementor-counter-number-wrapper {

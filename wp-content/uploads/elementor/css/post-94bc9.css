@@ -1092,17 +1092,6 @@
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.3);
 }
 
-.elementor-9 .elementor-element.elementor-element-a7bf880>.elementor-widget-container {
-    padding: 40px 30px 40px 30px;
-    background-color: var(--e-global-color-d700e18);
-    backdrop-filter: blur(5px) !important;
-    border-style: solid;
-    border-width: 1px 1px 1px 1px;
-    border-color: #e6e6e656;
-    border-radius: 40px 40px 40px 40px;
-    box-shadow: 30px 30px 60px 0px rgba(181.00000000000003, 202.00000000000003, 191.00000000000003, 0.38823529411764707);
-}
-
 .elementor-9 .elementor-element.elementor-element-0138012 .elementor-counter-number-wrapper {
     color: #f6b90c;
     font-family: "Rammetto One", Sans-serif;
@@ -1193,7 +1182,7 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-a5724fc .elementor-heading-title {
-    color: #00C0E4;
+    color: #ffffff;
     font-family: "Rammetto One", Sans-serif;
     font-size: 70px;
     text-transform: uppercase;
@@ -1401,7 +1390,15 @@
 
 .elementor-9 .elementor-element.elementor-element-e7c022e:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-9 .elementor-element.elementor-element-e7c022e>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #FFFFFF;
+    background-color: var(--e-global-color-d700e18);
+    backdrop-filter: blur(5px) !important;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #e6e6e656;
+    background-image: url("/images/All-lazor.png");
+    background-position: 0px 182px;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
 }
 
 .elementor-9 .elementor-element.elementor-element-e7c022e>.elementor-element-populated {
@@ -1441,7 +1438,7 @@
     stroke-width: 1px;
     -webkit-text-stroke-color: #000;
     stroke: #000;
-    text-shadow: 3px 3px 0px rgba(0, 0, 0, 0.51);
+    text-shadow: 1px 1px 0px rgb(255, 243, 72);
 }
 
 .elementor-9 .elementor-element.elementor-element-5703c31 .elementor-icon-box-title,
@@ -2100,10 +2097,6 @@
 .elementor-9 .elementor-element.elementor-element-dfe6792 .mdp-crawler-elementor-ticker-item-separator {
     font-size: 30px;
     color: #FFFFFF !important;
-    transition: color 0s, background 0s, box-shadow 0s, border-radius 0s, border 0s, filter 0s;
-}
-
-    {
     transition: color 0s, background 0s, box-shadow 0s, border-radius 0s, border 0s, filter 0s;
 }
 
